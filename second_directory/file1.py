@@ -1,1 +1,1 @@
-print('Hello, this file is created in the first directory')
+print('This statemetn is written to the file from second directory')
